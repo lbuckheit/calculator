@@ -51,7 +51,6 @@ function App() {
       }
     }
     else if (action === '.') {
-      // TODO - This needs a little work
       const hasDecimal = !(inputValue.toString().includes('.'))
       if (!inputValue || hasDecimal) {
         setInputValue(`${inputValue}.`)

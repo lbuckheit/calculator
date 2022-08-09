@@ -1,3 +1,15 @@
+/* 
+ * How to run:
+ * npm start -> navigate to localhost:3000
+ * 
+ * How I'd improve if I had more time:
+ * -Extract anything that might want to be reusable out into components
+ * -Clean up edge case logic (there's definitely some odd sequences of actions that can result in strange behavior)
+ * -Write some tests (this can go hand-in-hand with the above)
+ * 
+ * */
+
+
 import './App.css';
 import { useState } from 'react';
 

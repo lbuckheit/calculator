@@ -6,6 +6,7 @@
  * -Extract anything that might want to be reusable out into components
  * -Clean up edge case logic (there's definitely some odd sequences of actions that can result in strange behavior)
  * -Write some tests (this can go hand-in-hand with the above)
+ * -More polished css/styling
  * 
  * */
 
